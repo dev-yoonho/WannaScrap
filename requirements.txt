@@ -1,0 +1,10 @@
+openai
+feedparser
+PyQt5
+streamlit
+trafilatura
+openai
+feedparser
+pandas
+google-cloud-aiplatform
+pandas
